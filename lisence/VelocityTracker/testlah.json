@@ -5,7 +5,8 @@
     "EXP": "2025.01.01 00:00:00",
     "PRICE" : "FREE",
     "PAY": true,
+    "FILTER" : "ALL:ALL"
     "SHOWDESC" : true,
     "DESC" : "",
-    "NOTE" : ""
+    "NOTE" : "Filter Diisi dengan {NAMAPAIR:TF} contoh hanya diperbolehkan pair XAUUSD untuk TF M30 & GBPUSD untuk TF M30 & H1 maka diisi dengan : XAUUSD:M30,GBPUSD:M30#H1"
 }
